@@ -16,7 +16,6 @@ body {
     margin: 100px auto;
     box-sizing: border-box;
     background-color: aliceblue;
-    /* border: 3px solid red; */
 }
 
 .title  {
@@ -89,10 +88,9 @@ textarea {
 
 /* bagian navbar */
 .navbar {
-    /* border: 2px solid black; */
+   
     background-color: white;
     display: flex;
-    /* position: fixed; */
     width: 100%;
 }
 
@@ -103,7 +101,6 @@ textarea {
 
 .navigation {
     display: flex;
-    /* border: 1px solid red; */
     width: 300px;
 }
 
@@ -120,7 +117,6 @@ textarea {
     position: absolute;
     width: 100px;
     height: 40px;
-    /* border: 1px solid red; */
     right: 0;
     margin: 15px 30px;
     border-radius: 20px;
